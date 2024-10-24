@@ -1,11 +1,11 @@
 var root = {
   wavecolor: {  
-    r: 125,
-    g: 52,
-    b: 253
+    r: 255, // Vermelho
+    g: 0,
+    b: 0
     },
     rainbowSpeed: 0.5,
-    rainbow: true,
+    rainbow: false, // Desativando o arco-íris
     matrixspeed: 50
 };
 
